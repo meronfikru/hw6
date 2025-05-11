@@ -9,6 +9,7 @@
 using namespace std;
 int main()
 {
+
     DoubleHashProber<std::string, MyStringHash > dh;
     HashTable<
         std::string, 
